@@ -1,0 +1,5 @@
+.idea
+.idea/*
+Data/*.jpg
+Data/*.png
+Data/*.nrrd
